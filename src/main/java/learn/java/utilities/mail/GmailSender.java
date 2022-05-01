@@ -46,7 +46,7 @@ public class GmailSender {
 
     public static void main(String[] args) {
         System.out.println("Start");
-        send("udesh.puli.52694@gmail.com", "Luckyteddy@143", "udesh.mudhigonda@gmail.com", "hello Udesh", "I'm sending this from my Java code :)");
+        send("udesh.puli.52694@gmail.com", "Luckyteddy@143", "deepak.kuricheti06@gmail.com", "hello Deepak", "I'm sending this from my Java code :)");
         System.out.println("end");
     }
 }
