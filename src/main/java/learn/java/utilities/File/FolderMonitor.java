@@ -11,7 +11,7 @@ import java.util.Objects;
 
 public class FolderMonitor {
     private static final Logger LOG = LoggerFactory.getLogger(FolderMonitor.class);
-    private static final String FOLDER = "";
+    private static final String FOLDER = "C:\\Users\\udesh\\OneDrive\\Desktop\\Udesh\\Resumes";
 
     public static void main(String[] args) {
         final long interval = 5 * 1000;
